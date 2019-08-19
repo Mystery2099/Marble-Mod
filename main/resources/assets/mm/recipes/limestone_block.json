@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        "CC ",
+        "CC "
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "item": "mm:limestone_chunk"
+        }
+    },
+    
+    "result":
+    {
+        "item": "mm:limestone_block",
+        "count": 1
+    }
+}

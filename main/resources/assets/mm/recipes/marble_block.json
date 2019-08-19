@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "LL ",
+        "LL ",
+        "   "
+    ],
+    
+    "key":
+    {
+        "L":
+        {
+            "item": "mm:limestone_block"
+        }
+    },
+    
+    "result":
+    {
+        "item": "mm:marble_block",
+        "count": 1
+    }
+}

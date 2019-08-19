@@ -1,0 +1,9 @@
+//Items
+item.limestone_chunk.name=Limestone Chunk
+
+//Block
+tile.limestone_block.name=Limestone Block
+tile.marble_block.name=Marble Block
+
+//Tabs
+itemGroup.marbletab=Mystery's Marble Mod
